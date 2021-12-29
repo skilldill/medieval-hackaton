@@ -1,8 +1,8 @@
-import styles from './Description.module.css';
+import styles from "./Description.module.css";
 
 export const Description = () => {
     return (
-        <section>
+        <section className={styles.description}>
             
         </section>
     )
