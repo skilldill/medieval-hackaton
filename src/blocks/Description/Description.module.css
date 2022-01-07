@@ -1,3 +1,28 @@
 .description {
-    
+    padding: 150px 100px 100px 100px;
+}
+
+.title {
+    font-size: 80px;
+}
+
+p {
+    font-size: 50px;
+    margin-bottom: 100px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 150px;
+}
+
+.row p {
+    font-size: 40px;
+    margin: 0;
+}
+
+.row img {
+    width: 300px;
+    margin-right: 50px;
 }

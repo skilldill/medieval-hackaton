@@ -5,6 +5,7 @@
 .part {
     flex: 1;
     height: 100vh;
+    max-height: 1280px;
 }
 
 .descriptionBlock {
@@ -17,17 +18,17 @@
 .wallpaper {
     background-image: url(../../assets/main.png);
     background-repeat: no-repeat;
-    background-size: auto 100%;
+    background-size: cover;
 }
 
 .title {
     text-align: center;
-    font-size: 70px;
+    font-size: 100px;
     margin: 0 0 100px 0;
 }
 
 .description {
-    font-size: 30px;
+    font-size: 50px;
     margin: 0;
     margin: 0 0 100px 0;
     width: 75%;

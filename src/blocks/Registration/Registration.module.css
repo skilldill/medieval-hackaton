@@ -1,0 +1,24 @@
+.registration {
+    display: flex;
+}
+
+.picture {
+    flex: 1;
+    background-image: url(../../assets/comands.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+
+.contentBlock {
+    flex: 1;
+}
+
+.title {
+    font-size: 80px;
+    text-align: center;
+}
+
+.contentBlock p  {
+    padding: 30px;
+}
