@@ -9,6 +9,7 @@ import {
     Prices
 } from "../blocks";
 import { Registartion } from "../blocks/Registration";
+import { Finish } from "../blocks/Finish";
 
 export const Landing = () => {
     return (
@@ -19,6 +20,7 @@ export const Landing = () => {
             <Cases />
             <RoadMap />
             <Prices />
+            <Finish />
         </div>
     )
 }

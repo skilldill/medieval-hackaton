@@ -1,0 +1,39 @@
+.finish {
+    padding: 50px 100px 100px 100px;
+}
+
+.title {
+    font-size: 80px;
+    margin-bottom: 150px;
+}
+
+.firstLetter {
+    font-size: 130px;
+    color: indianred;
+}
+
+.linkButton {
+    text-decoration: none;
+    color: #000;
+    font-size: 30px;
+    border: 1px solid #000;
+    padding: 10px 60px;
+    max-height: 34px;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.knight {
+    width: 251px;
+    height: 320px;
+    background-image: url(../../assets/knight.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.knightLeft {
+    transform: rotateY(180deg);
+}
