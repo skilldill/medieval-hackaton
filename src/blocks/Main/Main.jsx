@@ -5,7 +5,7 @@ export const Main = () => {
         <section className={styles.main}>
             <div className={`${styles.part} ${styles.descriptionBlock}`}>
                 <h1 className={styles.title}>
-                    Средневековый хакатон
+                    <span className={styles.firstLetter}>С</span>редневековый хакатон
                 </h1>
                 <p className={styles.description}>
                     Полезай в галеру на пару дней и покажи свой скилл предкам

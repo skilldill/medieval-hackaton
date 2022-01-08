@@ -6,6 +6,11 @@
     font-size: 80px;
 }
 
+.firstLetter {
+    font-size: 130px;
+    color: indianred;
+}
+
 p {
     font-size: 50px;
     margin-bottom: 100px;

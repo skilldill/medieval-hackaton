@@ -19,6 +19,11 @@
     text-align: center;
 }
 
+.firstLetter {
+    font-size: 130px;
+    color: indianred;
+}
+
 .contentBlock p  {
     padding: 30px;
 }

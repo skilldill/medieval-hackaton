@@ -6,7 +6,7 @@ export const Description = () => {
     return (
         <section className={styles.description}>
             <h1 className={styles.title}>
-                Тема хакатона
+                <span className={styles.firstLetter}>Т</span>ема хакатона
             </h1>
 
             <p className >

@@ -1,0 +1,32 @@
+.roadmap {
+    padding: 150px 100px 100px 100px;
+}
+
+.title {
+    font-size: 80px;
+}
+
+.firstLetter {
+    font-size: 130px;
+    color: indianred;
+}
+
+.roadmapList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.roadmapItem {
+    max-width: 15%;
+}
+
+.roadmapItem h4 {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.roadmapItem p {
+    font-size: 25px;
+    margin: 0;
+}
