@@ -10,7 +10,11 @@ export const Main = () => {
                 <p className={styles.description}>
                     Полезай в галеру на пару дней и покажи свой скилл предкам
                 </p>
-                <a href="#" className={styles.linkButton}>
+                <a 
+                    target="_blank" rel="noopener noreferrer"
+                    href="https://forms.gle/FyACP4ZrukaqYzvJ9" 
+                    className={styles.linkButton}
+                >
                     Запись в гребцы
                 </a>
             </div>

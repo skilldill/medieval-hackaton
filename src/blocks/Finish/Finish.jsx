@@ -9,7 +9,11 @@ export const Finish = () => {
             <div className={styles.content}>
                 <div className={`${styles.knight} ${styles.knightLeft}`}></div>
 
-                <a href="#" className={styles.linkButton}>
+                <a 
+                    target="_blank" rel="noopener noreferrer"
+                    href="https://forms.gle/FyACP4ZrukaqYzvJ9" 
+                    className={styles.linkButton}
+                >
                     Запись в гребцы
                 </a>
 
