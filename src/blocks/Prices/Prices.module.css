@@ -1,0 +1,33 @@
+.prices {
+    display: flex;
+    height: 800px;
+}
+
+.wallpapper {
+    flex: .5;
+    background-image: url(../../assets/prices.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    font-size: 80px;
+    margin-bottom: 20px;
+}
+
+
+.firstLetter {
+    font-size: 130px;
+    color: indianred;
+}
+
+.contetntBlock {
+    flex: 1;
+    padding: 30px 30px 30px 100px;
+}
+
+.contetntBlock p {
+    margin: 0;
+    margin-bottom: 30px;
+    font-size: 40px;
+}

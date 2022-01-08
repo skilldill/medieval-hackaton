@@ -5,7 +5,8 @@ import {
     Main,
     Description,
     Cases,
-    RoadMap
+    RoadMap,
+    Prices
 } from "../blocks";
 import { Registartion } from "../blocks/Registration";
 
@@ -17,6 +18,7 @@ export const Landing = () => {
             <Registartion />
             <Cases />
             <RoadMap />
+            <Prices />
         </div>
     )
 }
