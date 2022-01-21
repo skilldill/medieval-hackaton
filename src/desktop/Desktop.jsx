@@ -1,4 +1,3 @@
-import { useState } from "react";
 import styles from "./Landing.module.css";
 
 import {
@@ -6,10 +5,10 @@ import {
     Description,
     Cases,
     RoadMap,
-    Prices
-} from "../desktop";
-import { Registartion } from "../desktop/Registration";
-import { Finish } from "../desktop/Finish";
+    Prices,
+    Registartion,
+    Finish
+} from "./";
 
 export const Landing = () => {
     return (
