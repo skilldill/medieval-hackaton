@@ -5,7 +5,7 @@
 
 .wallpapper {
     flex: .5;
-    background-image: url(../../assets/prices.png);
+    background-image: url(../../../assets/prices.png);
     background-repeat: no-repeat;
     background-size: cover;
 }

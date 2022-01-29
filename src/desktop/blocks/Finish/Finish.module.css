@@ -29,7 +29,7 @@
 .knight {
     width: 251px;
     height: 320px;
-    background-image: url(../../assets/knight.png);
+    background-image: url(../../../assets/knight.png);
     background-size: cover;
     background-repeat: no-repeat;
 }

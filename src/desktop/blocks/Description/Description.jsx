@@ -1,6 +1,6 @@
 import styles from "./Description.module.css";
-import GirlMirrowPNG from "../../assets/women-mirrow.png";
-import BoyGirlPNG from "../../assets/boy-girl-play.png";
+import GirlMirrowPNG from "../../../assets/women-mirrow.png";
+import BoyGirlPNG from "../../../assets/boy-girl-play.png";
 
 export const Description = () => {
     return (

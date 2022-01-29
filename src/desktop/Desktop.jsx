@@ -1,4 +1,4 @@
-import styles from "./Landing.module.css";
+import styles from "./Desktop.module.css";
 
 import {
     Main,
@@ -8,9 +8,9 @@ import {
     Prices,
     Registartion,
     Finish
-} from "./";
+} from "./blocks";
 
-export const Landing = () => {
+export const Desktop = () => {
     return (
         <div className={styles.landing}>
             <Main />

@@ -4,7 +4,7 @@
 
 .picture {
     flex: 1;
-    background-image: url(../../assets/comands.png);
+    background-image: url(../../../assets/comands.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;

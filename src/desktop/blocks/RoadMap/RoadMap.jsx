@@ -1,5 +1,5 @@
 import styles from "./RoadMap.module.css";
-import PricingPNG from "../../assets/pricing.png";
+import PricingPNG from "../../../assets/pricing.png";
 
 export const RoadMap = () => {
     return (
