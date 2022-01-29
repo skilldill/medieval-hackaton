@@ -1,0 +1,36 @@
+.main {
+    height: 100vh;
+    text-align: center;
+}
+
+.firstLetter {
+    font-size: 50px;
+    color: indianred;
+}
+
+.title {
+    font-size: 40px;
+    text-align: center;
+}
+
+.description {
+    font-size: 30px;
+    text-align: center;
+}
+
+.linkButton {
+    text-decoration: none;
+    color: #000;
+    font-size: 30px;
+    border: 1px solid #000;
+    padding: 10px 60px;
+}
+
+.wallpaper {
+    height: 20vh;
+    background-image: url(../../../assets/main.png);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+}

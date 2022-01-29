@@ -1,0 +1,27 @@
+.prices {
+    text-align: center;
+}
+
+.wallpapper {
+    height: 20vh;
+    background-image: url(../../../assets/prices.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+
+.firstLetter {
+    font-size: 50px;
+    color: indianred;
+}
+
+p {
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
